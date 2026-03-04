@@ -22,7 +22,7 @@ Supports:
 
 ## Download
 
-Download the full cheat sheet:
+Download the full cheat sheet: [Download the PDF](pdf/github-copilot-cheatsheet.pdf)
 
 **PDF version**
 
