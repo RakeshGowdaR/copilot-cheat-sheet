@@ -1,4 +1,7 @@
-<img width="494" height="334" alt="image" src="https://github.com/user-attachments/assets/5e059574-4062-4ed3-bf3c-87112976c2fe" /># GitHub Copilot Complete Cheat Sheet
+
+# GitHub Copilot Complete Cheat Sheet
+<img width="494" height="334" alt="image" src="https://github.com/user-attachments/assets/5e059574-4062-4ed3-bf3c-87112976c2fe" />
+
 
 A practical **developer-focused cheat sheet for GitHub Copilot** covering everyday workflows, agent usage, prompt patterns, and IDE integrations.
 
